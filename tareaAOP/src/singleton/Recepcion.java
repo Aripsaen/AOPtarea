@@ -1,7 +1,7 @@
 package singleton;
 
 public class Recepcion {
-	public void RegistrarCita(Usuario user) {
+	public void RegistrarPaciente(Usuario user) {
 		if( user instanceof Extranjero){
 			Extranjero extranjero = (Extranjero) user;
 			ExtranjeroAdapter extranjeroPaciente = new ExtranjeroAdapter(extranjero);
