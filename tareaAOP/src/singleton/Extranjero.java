@@ -10,6 +10,7 @@ public class Extranjero extends Usuario {
 		this.paisOrigen = paisOrigen;
 	}
 	
+	
 	public void visitar() {
 		
 	}
