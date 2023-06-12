@@ -5,5 +5,5 @@
  * @author alexv
  *
  */
-module tareaAOP_AJ {
+module tareaAOP_AOP {
 }

@@ -32,5 +32,9 @@ public class ExtranjeroAdapter implements Paciente{
 
     }
 	
+    @Override
+    public String toString() {
+    	return extranjero.name + " " + extranjero.lastName;
+    }
 	
 }
